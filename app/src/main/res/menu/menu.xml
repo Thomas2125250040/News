@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/item_berita"
+    android:title="Berita"
+    android:icon="@drawable/ic_berita"/>
+   <item
+    android:id="@+id/item_about"
+    android:title="Tentang Kami"
+    android:icon="@drawable/people" />
+    <item
+    android:id="@+id/item_MataUang"
+    android:title="Mata Uang"
+    android:icon="@drawable/ic_currency"/>
+</menu>
